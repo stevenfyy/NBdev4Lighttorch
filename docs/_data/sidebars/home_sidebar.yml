@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: dfcore
+      title: API
       url: /core
     output: web
     title: nbdev_first_demo
